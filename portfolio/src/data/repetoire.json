@@ -1,0 +1,132 @@
+[
+    {
+        "composer": "Tchaikovsky",
+        "title": "Romance",
+        "opus": "Op. 5",
+        "key": "F Minor"
+    },
+    {
+        "composer": "Tchaikovsky",
+        "title": "June",
+        "subtitle": "Barcarolle",
+        "opus": "Op. 37bis, No. 6",
+        "key": "G Minor"
+    },
+    {
+        "composer": "Tchaikovsky",
+        "title": "October",
+        "subtitle": "Autumn song",
+        "opus": "Op. 37bis, No. 10",
+        "key": "D Minor"
+    },
+    {
+        "composer": "Brahms",
+        "title": "Rhapsody",
+        "opus": "Op, 79, No. 2",
+        "key": "G Minor"
+    },
+    {
+        "composer": "Liadov",
+        "title": "Prelude",
+        "opus": "OP. 11, No 1",
+        "key": "B Minor"
+    },
+    {
+        "composer": "Glinka",
+        "title": "Nocturne",
+        "subtitle": "The Separation",
+        "key": "F Minor"
+    },
+    {
+        "composer": "Gottschalk",
+        "title": "Souvenir De Porto Rico",
+        "subtitle": "Marche des Gibaros",
+        "opus": "Op. 31",
+        "key": "E-flat Minor"
+    },
+    {
+        "composer": "Grieg",
+        "title": "Sonata",
+        "opus": "Op. 7",
+        "key": "E Minor",
+        "movement": "Movements 1 & 2"
+    },
+    {
+        "composer": "Debussy",
+        "title": "Deux Arabesques", 
+        "opus": "L. 74(66)",
+        "key": "E Major",
+        "movement":"Movements 1 & 2"
+    },
+    {
+        "composer": "Debussy",
+        "title": "Rêverie",
+        "opus": "L. 76(68)",
+        "key": "F Major"
+    },
+    {
+        "composer": "Rachmaninoff",
+        "title": "Elégie",
+        "opus": "Op. 3, No. 1",
+        "key": "E-flat Minor"
+    },
+    {
+        "composer": "Rachmaninoff",
+        "title": "Prelude",
+        "opus": "Op. 3, No. 2",
+        "key": "C-sharp Minor"
+    },
+    {
+        "composer": "Moszkowski",
+        "title": "Etude",
+        "opus": "Op. 72, No. 2",
+        "key": "G Minor"
+    },
+    {
+        "composer": "Beethoven",
+        "title": "Grande Sonate Pathétique",
+        "opus": "Op. 13",
+        "key": "C Minor",
+        "movement": "Movements 1, 2, & 3"
+    },
+    {
+        "composer": "Beethoven",
+        "title": "Grande Sonate",
+        "opus": "Op. 7", 
+        "key": "B-flat Major",
+        "movement": "Movement 1"
+    },
+    {
+        "composer": "Beethoven",
+        "title": "Sonata",
+        "opus": "Op. 27, No. 2",
+        "key": "C-sharp Minor",
+        "movement": "Movement 1"
+    },
+    {
+        "composer": "Chopin",
+        "title": "Nocturne",
+        "opus": "Op. 9, No. 2",
+        "key": "B-flat Major"
+    },
+    {
+        "composer": "Schumann",
+        "title": "Träumerei",
+        "opus": "Op. 15, No. 7",
+        "key": "F Major"
+    },
+    {
+        "composer": "Mozart",
+        "title": "Sonata No. 16",
+        "opus": "K. 545",
+        "key": "C Major",
+        "movement": "Movements 1 & 2"
+    },
+    {
+        "composer": "Mozart",
+        "title": "Sonata No. 11",
+        "opus": "K. 331",
+        "key": "A Major",
+        "movement": "Movement 3"
+    }
+]
