@@ -17,8 +17,10 @@ const Projects = () => {
     });
 
     return(<>
-    <h1>Projects page</h1>
-    <div className="row">
+    <div className="pt-4">
+        <h1 className="h1">Kaden's Projects</h1>
+    </div>
+    <div className="row pb-4">
         {cards}
     </div>
     

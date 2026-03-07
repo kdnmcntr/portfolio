@@ -4,7 +4,7 @@ const MainNavigation = () => {
     return(<>
         <div className={styles.navbar}>
             <nav className="navbar navbar-expand-md navbar-light">
-                <div className="container">
+                <div className="container-fluid">
                     <span className="navbar-brand">Kaden's Portfolio</span>
 
                     <button

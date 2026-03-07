@@ -30,8 +30,10 @@ const Repetoire = () => {
     }
 
     return(<>
-    <h1>Kaden's Repetoire</h1>
-    <div className={styles.repetoireList}>{repetoireList}</div>
+    <div className="pt-4">
+        <h1 className="h1">Kaden's Repetoire</h1>
+    </div>
+    <div className="ps-5 py-3">{repetoireList}</div>
     </>);
 }
 

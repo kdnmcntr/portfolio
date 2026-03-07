@@ -5,13 +5,17 @@ import styles from "../styles/Root.module.css";
 
 const RootLayout = () => {
     return(<>
-        <MainNavigation/>
-        <main className={styles.main}>
-            <div className="container">
-                <Outlet/>
+        <div className={styles.flex_wrapper}>
+            <div>
+                <MainNavigation/>
+                <main>
+                    <div className="container">
+                        <Outlet/>
+                    </div>
+                </main>
             </div>
-        </main>
-        <Footer/>
+            <Footer/>
+        </div>
     </>);
 }
 
