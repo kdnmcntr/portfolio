@@ -6,9 +6,9 @@ const Footer = () => {
             <div className="m-3 text-center">
                 <div className="container">
                 <div className="row">
-                    <div className="col-4"><a href="https://www.linkedin.com/in/kaden-mcentire-5442b8267/">LinkdIn</a></div>
-                    <div className="col-4"><a href="../../public/Kaden_McEntire.pdf">resume</a></div>
-                    <div className="col-4">kadenmcentire@mail.weber.edu</div>
+                    <div className="col-md-4 col-12"><a href="https://www.linkedin.com/in/kaden-mcentire-5442b8267/">LinkdIn</a></div>
+                    <div className="col-md-4 col-12"><a href="../../public/Kaden_McEntire.pdf">resume</a></div>
+                    <div className="col-md-4 col-12">kadenmcentire@mail.weber.edu</div>
                 </div>
             </div>
             </div>
