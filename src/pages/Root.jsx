@@ -7,7 +7,9 @@ const RootLayout = () => {
     return(<>
         <MainNavigation/>
         <main className={styles.main}>
-            <Outlet/>
+            <div className="container">
+                <Outlet/>
+            </div>
         </main>
         <Footer/>
     </>);
