@@ -1,4 +1,8 @@
 .pfp{
-    height: 250px;
-    border-radius: 125px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.container{
+    display: flex;
 }
